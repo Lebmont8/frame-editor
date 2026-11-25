@@ -1,5 +1,5 @@
 # Frame Editor
-Web and Electron desktop source for a video-editing workstation backed by the external FilmCraft engine.
+Edit video in a browser or the Electron desktop app. Frame Editor includes a timeline, trimming, markers, and audio controls. Rendering requires FilmCraft, which is installed separately.
 
 ## What is included
 - Timeline/preview interface, markers, linked edits, trim/cut, stills and audio controls
