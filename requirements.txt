@@ -1,0 +1,5 @@
+cryptography
+numpy
+Pillow
+requests
+boto3
